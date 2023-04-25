@@ -1,2 +1,2 @@
 # genre_classification
-Udacity MLOps-mlflow section
+MLFLOW PIPELINE (Wandb for experiment tracking)
