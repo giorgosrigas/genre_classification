@@ -1,2 +1,2 @@
-# genre_classification
+# genre classification
 MLFLOW PIPELINE (Wandb for experiment tracking)
