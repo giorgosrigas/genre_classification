@@ -1,2 +1,2 @@
 # genre classification
-MLFLOW PIPELINE (Wandb for experiment tracking)
+MLflow and Wandb Use for ML inference pipeline creation and experiment tracking
