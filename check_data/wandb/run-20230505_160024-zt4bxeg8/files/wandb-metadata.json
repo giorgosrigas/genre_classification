@@ -1,0 +1,86 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-05-05T15:00:25.882595",
+    "startedAt": "2023-05-05T15:00:24.349860",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/root/miniconda3/envs/mlflow-679fd1c82fbb721b6cda284a11a5a716ba912909/bin/pytest",
+    "git": {
+        "remote": "https://github.com/giorgosrigas/genre_classification.git",
+        "commit": "e6e3ca0cb49d4cfb0e180f996baf0e759e05d0c7"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/georg/Downloads/sites/MLOps_experiments_workflow/building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification",
+    "host": "LAPTOP-U6H7QF5T",
+    "username": "root",
+    "executable": "/root/miniconda3/envs/mlflow-679fd1c82fbb721b6cda284a11a5a716ba912909/bin/python3.11",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2803.2099999999996,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2803.21,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.21,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.21,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.21,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.21,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.21,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.21,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2803.21,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 19.72846221923828
+    },
+    "memory": {
+        "total": 15.486263275146484
+    }
+}

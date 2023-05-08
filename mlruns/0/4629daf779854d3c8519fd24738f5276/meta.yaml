@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/georg/Downloads/sites/MLOps_experiments_workflow/building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/4629daf779854d3c8519fd24738f5276/artifacts
+end_time: 1683289280179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4629daf779854d3c8519fd24738f5276
+run_name: shivering-worm-284
+run_uuid: 4629daf779854d3c8519fd24738f5276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683289254466
+status: 3
+tags: []
+user_id: root

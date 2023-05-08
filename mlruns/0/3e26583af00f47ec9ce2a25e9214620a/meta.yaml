@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/georg/Downloads/sites/MLOps_experiments_workflow/building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/3e26583af00f47ec9ce2a25e9214620a/artifacts
+end_time: 1683290047649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e26583af00f47ec9ce2a25e9214620a
+run_name: languid-bee-948
+run_uuid: 3e26583af00f47ec9ce2a25e9214620a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683289695712
+status: 3
+tags: []
+user_id: root

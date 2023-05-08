@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/georg/Downloads/sites/MLOps_experiments_workflow/building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/f100f4ef1113420dbf1b175ace5a3cc0/artifacts
+end_time: 1683292193488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f100f4ef1113420dbf1b175ace5a3cc0
+run_name: flawless-vole-270
+run_uuid: f100f4ef1113420dbf1b175ace5a3cc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683292171718
+status: 3
+tags: []
+user_id: root

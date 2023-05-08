@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/georg/Downloads/sites/MLOps_experiments_workflow/building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/92e41672ce0f45cd82678adde8d92102/artifacts
+end_time: 1683293508414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92e41672ce0f45cd82678adde8d92102
+run_name: delicate-skink-904
+run_uuid: 92e41672ce0f45cd82678adde8d92102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683292288283
+status: 4
+tags: []
+user_id: root
